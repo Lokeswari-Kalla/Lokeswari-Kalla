@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working in **Capgemini**
+- 🔭 SQL Developer at **Capgemini**
 
-- 🌱 I’m currently working as a **SQL Developer**
+- 🌱 SQL | Python | ETL | Power BI | Azure
 
 - 👯 I’m looking to collaborate on **Data Analyst Projects**
 
