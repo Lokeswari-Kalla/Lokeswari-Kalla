@@ -24,6 +24,7 @@
     <a href="https://pandas.pydata.org/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/undefined/panda.png"/> </a>
     <!--a href="https://numpy.org/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/color/48/undefined/numpy.png"/> </a-->
     <a href="https://powerbi.microsoft.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/> </a>
     <a href="https://github.com/" target="_blank"> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000"/> </a>
 </p>
 
