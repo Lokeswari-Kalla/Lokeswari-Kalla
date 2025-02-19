@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lokeswari Kalla</h1>
-<h3 align="center">I'm a SQL Developer with 3.2+ years of Experience from India</h3>
+<h3 align="center">I'm a Data engineer with 3.2+ years of Experience from India</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 SQL Developer at **Capgemini**
+- 🔭 Data Engineer at **Capgemini**
 
 - 🌱 SQL | Python | ETL | Power BI | Azure
 
-- 👯 I’m looking to collaborate on **Data Analyst Projects**
+- 👯 I’m looking to collaborate on **Data Engineer Projects**
 
 - 📫 How to reach me -    **[LinkedIn](http://www.linkedin.com/in/lokeswari-kalla/)**,  **:mailbox_with_no_mail: lokeswari.kalla.1999@gmail.com**
 
